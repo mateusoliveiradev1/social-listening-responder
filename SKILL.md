@@ -1,6 +1,6 @@
 ---
 name: Social Listening & Response Agent — Brand Reputation Triage Engine
-description: Analyze, Orchestrate, and Validate operations to: Calculates a deterministic sentiment baseline for brand mentions using Python keyword scoring (Positive/Negative/Neutral), categorizes intent (Praise/Support/Escalation), and synthesizes on-brand draft responses locked to the brand's voice. If negative sentiment is detected, an immediate escalation SOP is generated. ROI: prevents brand-damaging delayed or tone-deaf responses to viral complaints.
+description: "Analyze, Orchestrate, and Validate operations to: Calculates a deterministic sentiment baseline for brand mentions using Python keyword scoring (Positive/Negative/Neutral), categorizes intent (Praise/Support/Escalation), and synthesizes on-brand draft responses locked to the brand's voice. If negative sentiment is detected, an immediate escalation SOP is generated. ROI: prevents brand-damaging delayed or tone-deaf responses to viral complaints."
 ---
 
 # 🎯 Goal
